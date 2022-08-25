@@ -39,8 +39,7 @@
  <h3>4. XML External Entities </h3> 
  <p1> This risk occurs when attackers are able to upload or include hostile XML content due to insecure code<br>
      , integrations, or dependencies. An SCA scan can find risks in third-party components with known vulnerabilities <br>
-     and will warn you about them. Disabling XML external entity processing also reduces the likelihood of an XML entity attack.<br>
-    </p1>  
+     and will warn you about them. Disabling XML external entity processing also reduces the likelihood of an XML entity attack. </p1>  
 
  <h3> 5. Broken Access Control</h3> 
  <p1>If authentication and access restriction are not properly implemented, it's easy for attackers to take whatever they want. <br>
