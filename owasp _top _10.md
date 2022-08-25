@@ -52,9 +52,7 @@
 
  <h3>6. Security Misconfiguration </h3> 
  <p1>Just like misconfigured access controls, more general security configuration errors are huge risks that give attackers quick, easy<br>
-      access to sensitive data and site areas.<br>
-    
-    </p1>  
+      access to sensitive data and site areas.</p1>  
 
  <h3>7. Cross-Site Scripting </h3> 
  <p1>With cross-site scripting, attackers take advantage of APIs and DOM manipulation to retrieve data from or send commands to your<br>
